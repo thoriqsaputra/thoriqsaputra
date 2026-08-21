@@ -35,4 +35,4 @@ I'm a bilingual (Indonesian/English) software engineer who enjoys building full-
 
 ### 📫 Let's connect
 <a href="https://www.linkedin.com/in/thoriqsaputra/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://instagram.com/thoriqsaputra"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://instagram.com/thoriqsaputra_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
